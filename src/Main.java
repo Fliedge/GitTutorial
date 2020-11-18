@@ -5,7 +5,7 @@ public class Main(){
 
     }
 
-    public void newMethod(){
+    public void newExtremeMethod(){
 
     }
 
