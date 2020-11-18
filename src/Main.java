@@ -5,7 +5,7 @@ public class Main(){
 
     }
 
-    public void newExtremeMethod(){
+    public void newExtremeMegaMethod(){
 
     }
 
