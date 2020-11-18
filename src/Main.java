@@ -5,8 +5,8 @@ public class Main(){
 
     }
 
-    public void newFeature(){
-        
+    public void newMethod(){
+
     }
 
 }
